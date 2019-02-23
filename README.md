@@ -1,9 +1,8 @@
 # three.js-Spin-.obj-on-hover
 Show the steps to make an imported .obj and .mtl spin when your mouse hover!
-=
 
-# The model can only be shown on Server like TOMCAT 
-# 必须导入类似TOMCAT的服务器才能正常显示模型！代码经测试可跑，如果出问题可能是`路径设置不正确`
+## The model can only be shown on Server like TOMCAT 
+## 必须导入类似TOMCAT的服务器才能正常显示模型！代码经测试可跑，如果出问题可能是`路径设置不正确`
 
 
 最终可以实现这样的效果————外部导入的obj模型随着鼠标移动轻微转动。
